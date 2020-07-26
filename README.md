@@ -1,3 +1,26 @@
+## Marlin 2.0 for CR-10 type printer with SKR E3 Mini v. 2.0 32 Bit Board
+
+Configuration has been edited to configure the following (everything required to work and some nonsense):
+
+  - Board Type
+  - Printer Size
+  - TMC 2209 Drivers
+  - Axis Direction
+  - Type 1 Thermocouple for bed and hot end
+  - Steps/mm
+  - Acceleration
+  - Jerk
+  - petG and Nylon Preheats
+  - Games (bc why not)
+  - CR-10 Boot Screen
+  - CR-10 Status Screen
+  
+  
+  - NO LED
+  - NO BLTOUCH
+  - NO LIN_ADVANCE
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
