@@ -1,4 +1,4 @@
-## Marlin 2.0 for CR-10 type printer with SKR E3 Mini v. 2.0 32 Bit Board
+## Marlin bugfix-2.0 for CR-10 type printer with SKR E3 Mini v. 2.0 32 Bit Board
 
 Configuration has been edited to configure the following (everything required to work and some nonsense):
 
